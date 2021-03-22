@@ -2,6 +2,7 @@ from datetime import date
 from datetime import datetime
 
 
+
 class MyCalendar:
     def __init__(self, *args, **kwargs):
         self.datas = []
